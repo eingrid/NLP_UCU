@@ -1,0 +1,13 @@
+[project]
+name = "assignment1"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "emoji>=2.15.0",
+    "ipykernel>=7.1.0",
+    "kenlm>=0.3.0",
+    "num2words>=0.5.14",
+    "vllm>=0.13.0",
+]
