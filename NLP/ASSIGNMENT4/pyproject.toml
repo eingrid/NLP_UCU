@@ -1,0 +1,18 @@
+[project]
+name = "assignment4"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "accelerate>=1.12.0",
+    "datasets>=4.4.2",
+    "hf-transfer>=0.1.9",
+    "hf-xet>=1.2.0",
+    "ipykernel>=7.1.0",
+    "peft>=0.18.0",
+    "sacrebleu>=2.5.1",
+    "torch>=2.9.1",
+    "transformers>=4.57.3",
+    "trl>=0.26.2",
+]
